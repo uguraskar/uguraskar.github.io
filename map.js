@@ -37,24 +37,28 @@ function initMap() { // Create the map.
         } catch (err) {
             console.log("Circle Failed: " + err);
         }
-        var pathList = [];
-        for (var j = 0; j < px.length ; j++) {
-            pathList[j] = new google.maps.LatLng(parseFloat(px[j]), parseFloat(py[j]))
-            var marker = new google.maps.Marker({ //Marker
-                position: pathList[j],
-                map: map
-            });
-        }
-        try { //Polygonic Path
-            var path = new google.maps.Polyline({
-                path: pathList,
-                strokeColor: "#0000FF",
-                strokeOpacity: 0.8,
-                map: map,
-                strokeWeight: 2
-            });
-        } catch (err) {
-            console.log("Path Failed: " + err);
+        try {
+            var pathList = [];
+            for (var j = 0; j < px.length ; j++) {
+                pathList[j] = new google.maps.LatLng(parseFloat(px[j]), parseFloat(py[j]))
+                var marker = new google.maps.Marker({ //Marker
+                    position: pathList[j],
+                    map: map
+                });
+            }
+            try { //Polygonic Path
+                var path = new google.maps.Polyline({
+                    path: pathList,
+                    strokeColor: "#0000FF",
+                    strokeOpacity: 0.8,
+                    map: map,
+                    strokeWeight: 2
+                });
+            } catch (err) {
+                console.log("Path Failed: " + err);
+            }
+        } catch (e) {
+            console.log("No Path data found: " + e);
         }
     }
 }
