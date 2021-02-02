@@ -93,6 +93,10 @@ Double Major
 
 **Software Engineering** *Beykent University* <small>2013-2017</small>
 
+I became top scoring student in 2013-2014 and claimed scholarship.
+
+Succeeded at Oxford English Exam organized by Beykent University and exempted from preparatory class. My level was determined as C2 at the exam.
+
 # Projects
 
 ## [Reddit Analysis](https://uguraskar.github.io/reddit_analysis/reddit_analysis.html "Reddit Analysis") ![](images/python.png){width=2.5%} ![](images/postgresql.png){width=2.5%} <small>2021-01</small>
