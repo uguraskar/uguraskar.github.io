@@ -1,0 +1,118 @@
+---
+title: "Homepage"
+author: "Uğur Aşkar"
+output:
+  html_document:
+    code_folding: hide
+    toc: true
+    toc_float:
+      collapsed: true
+      smooth_scroll: false
+    number_sections: true
+---
+
+# Work Experience
+
+# Education
+
+**MEF University - Big Data Analysis** <small>2020</small>
+
+**Anadolu University - Business Administration / Management** <small>2019</small>
+
+**Beykent University - Electronics and Communication Engineering** <small>2014-2019</small>
+
+Double Major
+
+**Beykent University - Software Engineering** <small>2013-2017</small>
+
+# Projects
+
+## [Reddit Analysis](https://uguraskar.github.io/reddit_analysis/reddit_analysis.html "Reddit Analysis") ![](images/python.png){width=2.5%} ![](images/postgresql.png){width=2.5%} <small>2021-01</small>
+
+It is a project given by MEF University - Big Data Analytics - Introduction to Computer Programming(Python) class.
+
+Our aim here is to work with big datasets and replicate data management tools in python while doing data analysis. We will combine python with sql because pandas dataframe only works in memory and our dataset is much bigger than our memory can handle. In some of the parts we are going to touch some Natural Language Proccessing libraries and make our dataset smaller and detect languages in comments.
+
+Finally we are going to estimate how much profit we can make from smart ads like google's adsense if we implemented one in this certain website.
+
+Working with big datasets are always a huge challenge and it gives us new opportunities to improve.
+
+## [Foursquare Analysis](https://uguraskar.github.io/foursquare_analysis/foursquare_analysis.html "Foursquare Analysis") ![](images/python.png){width=2.5%} ![](images/postgresql.png){width=2.5%} <small>2021-01</small>
+
+It is a group project given by MEF University - Big Data Analytics - Big Data Management class.
+
+Exploratory analysis about Foursquare where users can share their locations and rate venues. This dataset contains 09/2013's values.
+
+## [High Frequency Trading](https://uguraskar.github.io/High-Frequency-Trading/ "High Frequency Trading") ![](images/R.png){width=2.5%} <small>2021-01</small>
+
+It is a mini-project given by MEF University - Big Data Analytics - Applied Statistics.
+
+High-frequency trading(HFT) is a financial innovation which was enabled by recent high performance computing, some of the transactions can be even made in microseconds.
+
+In this analysis we are trying to replicate and share our research about it.
+
+## [Querying the IMDB Database](https://github.com/uguraskar/Querying-the-IMDB-Database/blob/main/Querying-the-IMDB-Database.ipynb "Querying the IMDB Database") ![](images/postgresql.png){width=2.5%} <small>2020-12</small>
+
+It is a mini-project given by MEF University - Big Data Analytics - Big Data Management class, we do use [binder repositories](https://notebooks.gesis.org/binder/v2/gh/serhatcevikel/bdm_2019/hadoop "Serhat Çevikel's binder") instead of working on local. 
+
+Binder has some advantages compared to other systems, you can use bash, R, python etc. in same binder without changing the notebook.
+
+It uses postgresql as database and main goal here is to use;
+
+ * Subqueries
+ * Having Clauses
+ * Window Functions
+ * Common Term Expressions
+ * Joins
+ * Indexing
+
+## Health Insurance ![](images/Oracle.png){width=4%} ![](images/SAP.png){width=3.5%} <small>2020</small>
+
+Infrastructure work for incoming health insurance system.
+
+## Agito System Integration ![](images/Oracle.png){width=4%} ![](images/SAP.png){width=3.5%} <small>2019/2020</small>
+
+ * Creating data maps and integrating data from new system.
+ * Creating DataWareHouse data flows from new system.
+ * Creating DataMarts.
+ * Merging data with current system.
+
+## Collection Performance - Vintage ![](images/Oracle.png){width=4%} ![](images/SAP.png){width=3.5%} <small>2020</small>
+
+ * Report itself evaluetes company’s sales/collection and accounting performance.
+ * Transformed data size is around 350GB.
+ * Used PL/SQL and BODS.
+ * High degree of accuracy and precision.
+ * Created new datamart.
+
+## IFRS 17 ![](images/Oracle.png){width=4%} ![](images/SAP.png){width=3.5%} <small>2019/2020</small>
+
+Insurance policy
+
+Implementing IFRS 17(International Financial Reporting Standart) that is issued for accounting insurance contracts and will have effective date of 2023.
+
+## [Covid Tracker](https://github.com/uguraskar/covid-tracker "Covid Tracker") ![](images/python.png){width=2.5%} <small>2020-05</small>
+
+It gathers global covid-19 cases from github page as data provider, and exports it as a excel file.
+
+## Social Media & Datamining ![](images/CSharp.png){width=2.5%} ![](images/JavaScript.png){width=2.5%} <small>2016-10/2017-06</small>
+
+Used languages and Technologies: 
+
+ * C# WinForms 
+ * Javascript 
+ * PHP 
+ * MSSQL Stored Procedure 
+ * HTML
+
+Used user datasets from Foursquare/Swarm API in JSON format and transformed it. Transformed data could be used for smart ads or security concerns.
+
+Google maps javascript API used to visualize data. Used data encryption functions and methods to encrypt data. Used pushover and pushbullet API’s to send visualized data to smartphones. 
+
+Project Documentation created with; 
+
+ * IEEE SRS(System Requirements Specifications) 
+ * IEEE STD(System Test Documentation) 
+ * IEEE SDD(Software Design Documentation)
+
+standarts.
