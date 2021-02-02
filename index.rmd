@@ -13,17 +13,85 @@ output:
 
 # Work Experience
 
+**Business Intelligence & Data Expert** *Union Bilgi Teknolojileri A.Ş.* <small>2021-01/Current</small>
+
+**Business Intelligence Expert** *Aegon Emeklilik ve Hayat* <small>2020-12</small>
+
+ * Meet the needs of business units with Ad-Hoc Report Designs.
+ * Analyzing the needs of business units and creating report continuity
+ * Checking ETL in daily periods.
+ * Analyzing and managing requests on request management system.
+ * Giving permission to view or hide datasets from certain unit(s) or people under Turkish Personal Data Protection Law
+
+**Business Intelligence & Data Analyst Junior Engineer** *Cigna Finans Emeklilik ve Hayat A.Ş* <small>2019-06/2020-11</small>
+
+ * Meet the needs of business units with Ad-Hoc Report Designs.
+ * Improving system architecture with Universe Adjustments
+ * Designing dashboards with data visualization
+ * Analyzing the needs of business units and creating report continuity
+ * Creating data models and data architecture.
+ * Managing data flow’s lifecycle
+ * Checking ETL in daily periods.
+ * Analyzing and managing requests on request management system.
+ * Managing system infrastructure of SAP Business Object
+ * Creating WEBI users and authorizing them
+ * Giving permission to view or hide datasets from certain unit(s) or people under Turkish Personal Data Protection Law
+ * Creating Data Flow, Work Flow and Jobs.
+ * Creating and execution of ETL Transforms
+ * Developing SAP Data Services (BODS) Jobs, workflows and dataflows for data warehouse implementation.
+ * Using different data sources as MSSQL Server, Oracle Database, FTP and Excel to gather data and implementing them.
+ * Developing PL/SQL functions for data warehouse implementations.
+ * Improving/Optimizing detailed SQL Queries.
+ * Optimization of ETL Jobs.
+ * Fixing ETL Errors and inconsistent data and Improving BI Implementations.
+ * Creating reusable SQL Queries to clean, manipulate and analyzing data.
+ * Consulting about BI Tools to maintain and upgrade them.
+ * Managing system infrastructure to create data transfers from new sources.
+ * Managing architecture and development process under our company standards.
+ * Detecting software errors and technical solutions about them.
+ * Consulting other team members about SQL Optimization and giving technical advices.
+ * Creating end to end report solutions
+
+**Junior Information Technology & Operations** *VHV Reasürans* <small>2018-04/2018-05</small>
+
+I worked in the Information Technology & Operations department of the company operating in the Insurance/Reinsurance sector and supported the Claims Department. Since the company was of foreign origin, English was spoken frequently.
+
+Tools I worked with:
+
+ * SICS
+ * SAP Business Objects
+ * Microsoft Visio
+
+**Internship** *FSD Yazılım Bilişim Hizmetleri* <small>2016-08/2016-09</small>
+
+ * .NET Front-end Web development
+ * WinForms
+ * MSSQL
+ * Photoshop
+
+**Internship** *Ray Business Solutions* <small>2016-07/2016-08</small>
+
+.NET Software Developer Intern at Arçelik
+
+**Internship** *Cigna Finans Emeklilik ve Hayat A.Ş* <small>2012-07/2012-08</small>
+
+I worked in the IT department of the company operating in the insurance sector to help with hardware inventory management and software and hardware problems faced by users.
+
+**Internship** *Cigna Finans Emeklilik ve Hayat A.Ş* <small>2011-07</small>
+
+I worked in the IT department of the company operating in the insurance sector to help with hardware inventory management and software and hardware problems faced by users.
+
 # Education
 
-**MEF University - Big Data Analysis** <small>2020</small>
+**Big Data Analysis** *MEF University* <small>2020</small>
 
-**Anadolu University - Business Administration / Management** <small>2019</small>
+**Business Administration / Management** *Anadolu University* <small>2019</small>
 
-**Beykent University - Electronics and Communication Engineering** <small>2014-2019</small>
+**Electronics and Communication Engineering** *Beykent University* <small>2014-2019</small>
 
 Double Major
 
-**Beykent University - Software Engineering** <small>2013-2017</small>
+**Software Engineering** *Beykent University* <small>2013-2017</small>
 
 # Projects
 
