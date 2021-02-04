@@ -13,9 +13,9 @@ output:
 
 # Work Experience
 
-**Business Intelligence & Data Expert** *Union Bilgi Teknolojileri A.Ş.* <small>2021-01/Current</small>
+**Business Intelligence & Data Expert** *Union Bilgi Teknolojileri A.Ş.* <small>2021/01-Current</small>
 
-**Business Intelligence Expert** *Aegon Emeklilik ve Hayat* <small>2020-12</small>
+**Business Intelligence Expert** *Aegon Emeklilik ve Hayat* <small>2020/12</small>
 
  * Meet the needs of business units with Ad-Hoc Report Designs.
  * Analyzing the needs of business units and creating report continuity
@@ -23,7 +23,7 @@ output:
  * Analyzing and managing requests on request management system.
  * Giving permission to view or hide datasets from certain unit(s) or people under Turkish Personal Data Protection Law
 
-**Business Intelligence & Data Analyst Junior Engineer** *Cigna Finans Emeklilik ve Hayat A.Ş* <small>2019-06/2020-11</small>
+**Business Intelligence & Data Analyst Junior Engineer** *Cigna Finans Emeklilik ve Hayat A.Ş* <small>2019/06-2020/11</small>
 
  * Meet the needs of business units with Ad-Hoc Report Designs.
  * Improving system architecture with Universe Adjustments
@@ -52,7 +52,7 @@ output:
  * Consulting other team members about SQL Optimization and giving technical advices.
  * Creating end to end report solutions
 
-**Junior Information Technology & Operations** *VHV Reasürans* <small>2018-04/2018-05</small>
+**Junior Information Technology & Operations** *VHV Reasürans* <small>2018/04-2018/05</small>
 
 I worked in the Information Technology & Operations department of the company operating in the Insurance/Reinsurance sector and supported the Claims Department. Since the company was of foreign origin, English was spoken frequently.
 
@@ -62,36 +62,36 @@ Tools I worked with:
  * SAP Business Objects
  * Microsoft Visio
 
-**Internship** *FSD Yazılım Bilişim Hizmetleri* <small>2016-08/2016-09</small>
+**Internship** *FSD Yazılım Bilişim Hizmetleri* <small>2016/08-2016/09</small>
 
  * .NET Front-end Web development
  * WinForms
  * MSSQL
  * Photoshop
 
-**Internship** *Ray Business Solutions* <small>2016-07/2016-08</small>
+**Internship** *Ray Business Solutions* <small>2016/07-2016/08</small>
 
 .NET Software Developer Intern at Arçelik
 
-**Internship** *Cigna Finans Emeklilik ve Hayat A.Ş* <small>2012-07/2012-08</small>
+**Internship** *Cigna Finans Emeklilik ve Hayat A.Ş* <small>2012/07-2012/08</small>
 
 I worked in the IT department of the company operating in the insurance sector to help with hardware inventory management and software and hardware problems faced by users.
 
-**Internship** *Cigna Finans Emeklilik ve Hayat A.Ş* <small>2011-07</small>
+**Internship** *Cigna Finans Emeklilik ve Hayat A.Ş* <small>2011/07</small>
 
 I worked in the IT department of the company operating in the insurance sector to help with hardware inventory management and software and hardware problems faced by users.
 
 # Education
 
-**Big Data Analysis** *MEF University* <small>2020</small>
+**Big Data Analysis** ![](images/MEF.png "MEF University"){width=4%} *MEF University* <small>2020-</small>
 
-**Business Administration / Management** *Anadolu University* <small>2019</small>
+**Business Administration / Management** ![](images/Anadolu.png "Anadolu University"){width=2.5%} *Anadolu University* <small>2019-</small>
 
-**Electronics and Communication Engineering** *Beykent University* <small>2014-2019</small>
+**Electronics and Communication Engineering** ![](images/BEU.png "Beykent University"){width=2.5%} *Beykent University* <small>2014-2019</small>
 
 Double Major
 
-**Software Engineering** *Beykent University* <small>2013-2017</small>
+**Software Engineering** ![](images/BEU.png "Beykent University"){width=2.5%} *Beykent University* <small>2013-2017</small>
 
 I became top scoring student in 2013-2014 and claimed scholarship.
 
@@ -99,7 +99,7 @@ Succeeded at Oxford English Exam organized by Beykent University and exempted fr
 
 # Projects
 
-## [Reddit Analysis](https://uguraskar.github.io/reddit_analysis/reddit_analysis.html "Reddit Analysis") ![](images/python.png){width=2.5%} ![](images/postgresql.png){width=2.5%} <small>2021-01</small>
+## [Reddit Analysis](https://uguraskar.github.io/reddit_analysis/reddit_analysis.html "Reddit Analysis") ![](images/python.png "Python"){width=2.5%} ![](images/postgresql.png "PostgreSQL"){width=2.5%} <small>2021/01</small>
 
 It is a project given by MEF University - Big Data Analytics - Introduction to Computer Programming(Python) class.
 
@@ -109,13 +109,13 @@ Finally we are going to estimate how much profit we can make from smart ads like
 
 Working with big datasets are always a huge challenge and it gives us new opportunities to improve.
 
-## [Foursquare Analysis](https://uguraskar.github.io/foursquare_analysis/foursquare_analysis.html "Foursquare Analysis") ![](images/python.png){width=2.5%} ![](images/postgresql.png){width=2.5%} <small>2021-01</small>
+## [Foursquare Analysis](https://uguraskar.github.io/foursquare_analysis/foursquare_analysis.html "Foursquare Analysis") ![](images/python.png "Python"){width=2.5%} ![](images/postgresql.png "PostgreSQL"){width=2.5%} <small>2021/01</small>
 
 It is a group project given by MEF University - Big Data Analytics - Big Data Management class.
 
 Exploratory analysis about Foursquare where users can share their locations and rate venues. This dataset contains 09/2013's values.
 
-## [High Frequency Trading](https://uguraskar.github.io/High-Frequency-Trading/ "High Frequency Trading") ![](images/R.png){width=2.5%} <small>2021-01</small>
+## [High Frequency Trading](https://uguraskar.github.io/High-Frequency-Trading/ "High Frequency Trading") ![](images/R.png "R"){width=2.5%} <small>2021/01</small>
 
 It is a mini-project given by MEF University - Big Data Analytics - Applied Statistics.
 
@@ -123,7 +123,7 @@ High-frequency trading(HFT) is a financial innovation which was enabled by recen
 
 In this analysis we are trying to replicate and share our research about it.
 
-## [Querying the IMDB Database](https://github.com/uguraskar/Querying-the-IMDB-Database/blob/main/Querying-the-IMDB-Database.ipynb "Querying the IMDB Database") ![](images/postgresql.png){width=2.5%} <small>2020-12</small>
+## [Querying the IMDB Database](https://github.com/uguraskar/Querying-the-IMDB-Database/blob/main/Querying-the-IMDB-Database.ipynb "Querying the IMDB Database") ![](images/postgresql.png "PostgreSQL"){width=2.5%} <small>2020/12</small>
 
 It is a mini-project given by MEF University - Big Data Analytics - Big Data Management class, we do use [binder repositories](https://notebooks.gesis.org/binder/v2/gh/serhatcevikel/bdm_2019/hadoop "Serhat Çevikel's binder") instead of working on local. 
 
@@ -138,18 +138,18 @@ It uses postgresql as database and main goal here is to use;
  * Joins
  * Indexing
 
-## Health Insurance ![](images/Oracle.png){width=4%} ![](images/SAP.png){width=3.5%} <small>2020</small>
+## Health Insurance ![](images/Oracle.png "Oracle"){width=4%} ![](images/SAP.png "SAP"){width=3.5%} <small>2020</small>
 
 Infrastructure work for incoming health insurance system.
 
-## Agito System Integration ![](images/Oracle.png){width=4%} ![](images/SAP.png){width=3.5%} <small>2019/2020</small>
+## Agito System Integration ![](images/Oracle.png "Oracle"){width=4%} ![](images/SAP.png "SAP"){width=3.5%} <small>2019-2020</small>
 
  * Creating data maps and integrating data from new system.
  * Creating DataWareHouse data flows from new system.
  * Creating DataMarts.
  * Merging data with current system.
 
-## Collection Performance - Vintage ![](images/Oracle.png){width=4%} ![](images/SAP.png){width=3.5%} <small>2020</small>
+## Collection Performance - Vintage ![](images/Oracle.png "Oracle"){width=4%} ![](images/SAP.png "SAP"){width=3.5%} <small>2020</small>
 
  * Report itself evaluetes company’s sales/collection and accounting performance.
  * Transformed data size is around 350GB.
@@ -157,17 +157,17 @@ Infrastructure work for incoming health insurance system.
  * High degree of accuracy and precision.
  * Created new datamart.
 
-## IFRS 17 ![](images/Oracle.png){width=4%} ![](images/SAP.png){width=3.5%} <small>2019/2020</small>
+## IFRS 17 ![](images/Oracle.png "Oracle"){width=4%} ![](images/SAP.png "SAP"){width=3.5%} <small>2019-2020</small>
 
 Insurance policy
 
 Implementing IFRS 17(International Financial Reporting Standart) that is issued for accounting insurance contracts and will have effective date of 2023.
 
-## [Covid Tracker](https://github.com/uguraskar/covid-tracker "Covid Tracker") ![](images/python.png){width=2.5%} <small>2020-05</small>
+## [Covid Tracker](https://github.com/uguraskar/covid-tracker "Covid Tracker") ![](images/python.png "Python"){width=2.5%} <small>2020/05</small>
 
 It gathers global covid-19 cases from github page as data provider, and exports it as a excel file.
 
-## Social Media & Datamining ![](images/CSharp.png){width=2.5%} ![](images/JavaScript.png){width=2.5%} <small>2016-10/2017-06</small>
+## Social Media & Datamining ![](images/CSharp.png "C#"){width=2.5%} ![](images/JavaScript.png "JavaScript"){width=2.5%} <small>2016/10-2017/06</small>
 
 Used languages and Technologies: 
 
