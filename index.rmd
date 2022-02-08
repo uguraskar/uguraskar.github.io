@@ -1,5 +1,4 @@
 ---
-title: "Homepage"
 author: "Uğur Aşkar"
 output:
   html_document:
@@ -13,7 +12,15 @@ output:
 
 # Work Experience
 
-**Business Intelligence & Data Expert** *Union Bilgi Teknolojileri A.Ş.* <small>2021/01-Current</small>
+**Data Engineer** *Union Bilgi Teknolojileri A.Ş.* <small>2021/01-Current</small>
+
+ * Consulting a Leading Global FMCG company and giving techical advices
+ * Analyzed and then effectively strategized in regard to business goals, deadlines, schedules, needed resources
+ * Handled, prioritized, and problem-solved multiple tasks connected to multiple projects at one time
+ * Developing ETL Jobs with SQL Server Integration Services and C# Scripts
+ * Creating data models with SQL Server Analysis Services
+ * Designing dashboards with data visualization with Power BI
+ * Created Jobs that imported data from APIs in JSON and XML format, FTP, Sharepoint, Excel and Databases
 
 **Business Intelligence Expert** *Aegon Emeklilik ve Hayat* <small>2020/12</small>
 
@@ -98,6 +105,18 @@ I became top scoring student in 2013-2014 and claimed scholarship.
 Succeeded at Oxford English Exam organized by Beykent University and exempted from preparatory class. My level was determined as C2 at the exam.
 
 # Projects
+
+## [Foodbasket](https://uguraskar.github.io/foodbasket/foodbasket "Foodbasket") ![](images/python.png "Python"){width=2.5%} ![](images/postgresql.png "PostgreSQL"){width=2.5%} <small>2021/01</small>
+
+In this project, sentiment analysis methods are used to predict and improve online customer feedbacks about fast food restaurants. In order to gather data, web scrapping methods were used on the biggest online food delivery service in Turkey. Natural language processing methods such as text lemmatization, stopword removal, porter stemmer, word normalization, word frequency methods such as TF-IDF and Count Vectorizer are used. After text preprocessing methods are used, sentiment scores are created by matching words in the comments given by users. Gradient Boosting Machines are used primarily as model in the project such as LightGBM. Performance of the project are evaluated by using mean squared errors and R-squared values.
+
+People tend to give their reviews in extreme values, for this reason it would be preferable to train the model using scores while creating a sentiment-based model in the end. With this method there would be more smooth transition in scores and each customers true feelings towards to product can be extracted from the review itself.
+
+We observe that; customers were mainly satisfied with restaurants which had expensive products, higher variety of products and higher sentiment scores. It is not possible do dive deeper to expensive products part due to this project was focusing mainly on making analysis using machine learning approach. However it could be caused by higher quality of the ingredients or customers deeming expensive restaurants a royalty and scoring based on it.
+
+## Prophet ![](images/python.png "Python"){width=2.5%} ![](images/postgresql.png "PostgreSQL"){width=2.5%} <small>2021/06</small>
+
+While data and results are confidential to talk about, in this project data was owned by a leading global FMCG company and one of its distributors. Clustering and regression machine learning algorithms were used.
 
 ## [Reddit Analysis](https://uguraskar.github.io/reddit_analysis/reddit_analysis.html "Reddit Analysis") ![](images/python.png "Python"){width=2.5%} ![](images/postgresql.png "PostgreSQL"){width=2.5%} <small>2021/01</small>
 
