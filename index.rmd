@@ -14,7 +14,7 @@ output:
 
 **Data Engineer** *Union Bilgi Teknolojileri A.Ş.* <small>2021/01-Current</small>
 
- * Consulting a Leading Global FMCG company and giving techical advices
+ * Consulting a Leading Global FMCG company and giving technical advice
  * Analyzed and then effectively strategized in regard to business goals, deadlines, schedules, needed resources
  * Handled, prioritized, and problem-solved multiple tasks connected to multiple projects at one time
  * Developing ETL Jobs with SQL Server Integration Services and C# Scripts
