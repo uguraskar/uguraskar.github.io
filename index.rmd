@@ -106,7 +106,7 @@ Succeeded at Oxford English Exam organized by Beykent University and exempted fr
 
 # Projects
 
-## [Foodbasket](https://uguraskar.github.io/foodbasket/foodbasket "Foodbasket") ![](images/python.png "Python"){width=2.5%} ![](images/postgresql.png "PostgreSQL"){width=2.5%} <small>2021/01</small>
+## [Foodbasket](https://uguraskar.github.io/foodbasket/foodbasket "Foodbasket") ![](images/python.png "Python"){width=2.5%} ![](images/postgresql.png "PostgreSQL"){width=2.5%} <small>2021/09</small>
 
 In this project, sentiment analysis methods are used to predict and improve online customer feedbacks about fast food restaurants. In order to gather data, web scrapping methods were used on the biggest online food delivery service in Turkey. Natural language processing methods such as text lemmatization, stopword removal, porter stemmer, word normalization, word frequency methods such as TF-IDF and Count Vectorizer are used. After text preprocessing methods are used, sentiment scores are created by matching words in the comments given by users. Gradient Boosting Machines are used primarily as model in the project such as LightGBM. Performance of the project are evaluated by using mean squared errors and R-squared values.
 
