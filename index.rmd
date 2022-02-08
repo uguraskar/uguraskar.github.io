@@ -21,7 +21,8 @@ output:
  * Creating data models with SQL Server Analysis Services
  * Designing dashboards with data visualization with Power BI
  * Created Jobs that imported data from APIs in JSON and XML format, FTP, Sharepoint, Excel and Databases
-
+ * Creating permission system to automatically make certain unit(s) to view or hide confidentional datasets
+ 
 **Business Intelligence Expert** *Aegon Emeklilik ve Hayat* <small>2020/12</small>
 
  * Meet the needs of business units with Ad-Hoc Report Designs.
